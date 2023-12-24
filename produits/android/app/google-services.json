@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649003480596",
+    "project_id": "atelier4-i-elfarouki-iir5g2",
+    "storage_bucket": "atelier4-i-elfarouki-iir5g2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649003480596:android:02f3750bed5cf1c5651901",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_elfarouki_iir5g2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8m1OaHGDFaahiJNkWWBeX6TpqhqoiPn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649003480596:android:bfb5d47bbbad074d651901",
+        "android_client_info": {
+          "package_name": "com.example.produits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8m1OaHGDFaahiJNkWWBeX6TpqhqoiPn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
